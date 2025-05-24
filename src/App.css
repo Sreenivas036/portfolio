@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.homeBanner{
+  background-image: url('../assets/Backgroundimg/background2.png') !important;
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
