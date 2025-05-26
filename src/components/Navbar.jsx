@@ -42,7 +42,7 @@ const Navbar = () => {
 
       {/* Mobile Dropdown */}
       {menuOpen && (
-        <ul className="md:hidden bg-[#0d112b] px-4 pb-4 space-y-2 text-lg font-medium flex flex-col items-center text-center">
+        <ul className="md:hidden  bg-gradient-to-br from-[#7cc771] to-[#1e293b] px-4 pb-4 space-y-2 text-lg font-medium flex flex-col items-center text-center">
           {links.map((link) => (
             <li
               key={link}
