@@ -4,6 +4,7 @@ import { TypeAnimation } from 'react-type-animation';
 
 
 const HomePage = () => {
+ 
   return (
     <section className="min-h-screen bg-gradient-to-br from-[#7cc771] to-[#1e293b] text-white pt-24 px-4 flex items-center justify-center font-poppins">
       <div className="text-left max-w-2xl">
@@ -48,7 +49,7 @@ const HomePage = () => {
         </div>
         <div className="flex justify-center gap-6 mb-8">
           <a
-            href="https://drive.google.com/file/d/1Dz8A9nj3ny33Kx2LcDAxbbSfqMYNgFcU/view?usp=sharing"
+            href="https://drive.google.com/file/d/1VRHUgjyhb4FthPUl1y0gq6QVHbfrxSRu/view?usp=sharing"
             className="bg-gradient-to-r from-blue-400 to-blue-500 hover:from-blue-500 hover:to-blue-600 text-white px-8 py-3 rounded-full inline-flex items-center gap-2 text-lg font-medium shadow-lg transition duration-300"
           >
             Download Resume <FaDownload />
