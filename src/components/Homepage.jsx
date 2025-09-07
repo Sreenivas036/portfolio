@@ -49,7 +49,7 @@ const HomePage = () => {
         </div>
         <div className="flex justify-center gap-6 mb-8">
           <a
-            href="https://drive.google.com/file/d/1VRHUgjyhb4FthPUl1y0gq6QVHbfrxSRu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ZSOoKm3FEuqPuqrfWBPsHCGpaqedTZ_7/view?usp=sharing"
             className="bg-gradient-to-r from-blue-400 to-blue-500 hover:from-blue-500 hover:to-blue-600 text-white px-8 py-3 rounded-full inline-flex items-center gap-2 text-lg font-medium shadow-lg transition duration-300"
           >
             Download Resume <FaDownload />
